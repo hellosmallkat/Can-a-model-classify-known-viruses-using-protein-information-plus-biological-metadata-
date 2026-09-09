@@ -1,0 +1,1 @@
+# machine-learning-to-predict-a-new-virus-has-the-severity-risk-based-on-its-outer-proteins
